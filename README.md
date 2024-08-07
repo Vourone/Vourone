@@ -71,5 +71,5 @@ Hi, I'm Valerian!</h1>
 <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> <img width="40" height="40" src="https://cdn.svgporn.com/logos/vitejs.svg" alt="Vite" title="Vite"/> </a> 
 <br />
 <br clear="both">
-  <img src="https://vghrms.vercel.app/api/top-langs?username=Vourone&exclude_repo=Angular_Routing,MariaDB-Python_Collaboration,Vourone&locale=en&layout=normal&hide_title=true&langs_count=10&theme=graywhite&hide_border=true" alt="languages graph"  />
+  <img src="https://vghrms.vercel.app/api/top-langs?username=Vourone&exclude_repo=Angular_Routing,Siamese_NetWork_Recogniton,TestNG_Selenium,Modern_JavaScript,SQL_DataBase_Insights,MariaDB-Python_Collaboration,Vourone,GodotEngine,GitHubReadMeStats&locale=en&layout=normal&hide_title=true&langs_count=10&theme=graywhite&hide_border=true" alt="languages graph"  />
 </div>
