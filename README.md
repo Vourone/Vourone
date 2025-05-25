@@ -9,7 +9,7 @@ Hi, I'm Valerian!</h1>
 
 - 📝 I regularly write articles on [https://www.valerian.my.id/](https://www.valerian.my.id/)
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/valerian-](https://www.linkedin.com/in/valerian-)
+<!-- 📄 Know about my experiences [https://www.linkedin.com/in/valerian-](https://www.linkedin.com/in/valerian-) -->
 
 <h3 align="left">Connect with me:</h3>
 
@@ -20,6 +20,7 @@ Hi, I'm Valerian!</h1>
 
 <br />
 
+<!--
 <a href="https://www.ansible.com/" target="_blank" rel="noreferrer"> <img width="40" height="40" src="https://cdn.svgporn.com/logos/ansible.svg" alt="Ansible" title="Ansible"/> </a>
 <a href="https://www.apollographql.com/" target="_blank" rel="noreferrer"> <img width="40" height="40" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="Apollo" title="Apollo"/> </a>
 <a href="https://astro.build/" target="_blank" rel="noreferrer"> <img width="40" height="40" src="https://cdn.svgporn.com/logos/astro-icon.svg" alt="Astro" title="Astro"/> </a>
@@ -70,6 +71,8 @@ Hi, I'm Valerian!</h1>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript"/> </a>
 <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> <img width="40" height="40" src="https://cdn.svgporn.com/logos/vitejs.svg" alt="Vite" title="Vite"/> </a> 
 <br />
+-->
+
 <br clear="both">
   <img src="https://vghrms.vercel.app/api/top-langs?username=Vourone&exclude_repo=Angular_Routing,GitHubReadMeStats,GodotEngine,MariaDB-Python_Collaboration,Modern_JavaScript,Siamese_NetWork_Recognition,SQL_DataBase_Insights,TestNG_Selenium,Vourone&locale=en&layout=normal&hide_title=true&langs_count=10&theme=graywhite&hide_border=true" alt="languages graph"  />
 </div>
